@@ -42,9 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![E-CommerceBackEnd Screen Shot](./)
 
-Usage Video: 
 
 
 
